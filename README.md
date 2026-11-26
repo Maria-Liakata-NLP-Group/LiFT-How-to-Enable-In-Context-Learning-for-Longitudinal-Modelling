@@ -3,11 +3,7 @@
 
 ## Overview
 
-**LiFT (Longitudinal Instruction Fine-Tuning)** is a framework for adapting Large Language Models (LLMs) to longitudinal modelling through temporally structured instruction fine-tuning, progressive curriculum learning, and history-aware multi-task learning.
-
-Unlike conventional instruction fine-tuning approaches that treat individual observations independently, LiFT incorporates historical context, temporal dependencies, and longitudinal few-shot demonstrations to model the evolution of information over time.
-
-Our framework investigates longitudinal modelling across multiple domains, including motivational interviewing, longitudinal stance detection, and emotional change detection.
+**LiFT (Longitudinal Instruction Fine-Tuning)** is a framework for adapting Large Language Models (LLMs) to longitudinal modelling through temporally structured instruction fine-tuning, progressive curriculum learning, and history-aware multi-task learning. Unlike conventional instruction fine-tuning approaches that treat individual observations independently, LiFT incorporates historical context, temporal dependencies, and longitudinal few-shot demonstrations to model the evolution of information over time. Our framework investigates longitudinal modelling across multiple domains, including motivational interviewing, longitudinal stance detection, and emotional change detection.
 
 ---
 
