@@ -1,0 +1,33 @@
+# Credentials
+*s3_credentials*
+.env
+.env.*
+*credentials*.json
+*secrets*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Training artifacts
+checkpoints/
+outputs/
+outputs_local/
+*.pt
+*.pth
+*.safetensors
+*.pkl
+
+# Datasets
+*.csv
+*.jsonl
+datasets/
+data/
+
+# Logs
+*.log
